@@ -1,5 +1,4 @@
 # hello-world
-My first github ripo
 
 Hi Humans!
 
